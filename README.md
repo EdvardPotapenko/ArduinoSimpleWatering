@@ -1,2 +1,2 @@
-# ElecrowSimpleWatering
-Simple watering arduino script for elecrow watering kit
+# Arduino Simple Watering
+Simple watering arduino script for elecrow and ecoduino watering kits
